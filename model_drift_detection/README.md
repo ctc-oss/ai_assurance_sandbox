@@ -1,4 +1,4 @@
-# Image-Based Model Drift Detection
+# Image-Based Model Drift Detection Using Model Inversion and Membership Inference Attacks
 
 ## Abstract
 
